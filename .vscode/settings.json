@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "nhan_tin",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "pusher",
+            "password": "thuanvp012",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "thuan"
+        }
+    ]
+}
